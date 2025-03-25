@@ -10,7 +10,7 @@ import os
 import dotenv
 
 dotenv.load_dotenv()
-path = os.getenv("LINK_FILE")
+path = os.getenv("LINK_FILE_1")
 
 
 browse = webdriver.Chrome()
@@ -28,13 +28,17 @@ if (os.path.exists(path)):
     mode = "a"
 else:
     mode = "w"
+    
+    
+print("Vigilar que no se cubra la pagina con popup, y cerrar de forma manual si aparece")
 with open(path, mode) as file:
     if mode == "w":
         print("Creating file")
     else:
         print("Appending to file")
     # mientras limitado a solo 2 paginas,luego solo cambiar a j<=2 por  True
-    while j <= 2:
+    j=1
+    while True:
         print(f"Extracting page : {j}")
         for i in range(1, 31):
             try:
@@ -43,15 +47,18 @@ with open(path, mode) as file:
                 href = elem.get_attribute("href")
                 file.write(href + "\n")
             except NoSuchElementException:
-                print("Element not found \n Continuing")
-                break
+                print("Element not found, then no more pages, closing..")
+                exit(0)
+        j+=1
+        # Intentar cerrar popup si aparece
         try:
-            
-            elem = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, f"a.page-link[data-ci-pagination-page='{j+1}']")))
-            elem.click()
-            j+=1
-        except Exception as e:
-            print("No more pages found \n Exiting crawler")
-            break
-        
-print("Finished extracting links")
+            popup = WebDriverWait(browse, 5).until(
+                EC.element_to_be_clickable((By.ID, "onesignal-slidedown-cancel-button"))
+            )
+            popup.click()
+            print("Popup cerrado")
+            sleep(2)
+        except:
+            print("No apareció popup")
+        elem = elem = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, f"a.page-link[data-ci-pagination-page='{j}']")))
+        elem.click()
