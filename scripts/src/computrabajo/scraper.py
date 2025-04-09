@@ -22,7 +22,7 @@ chrome_options.add_argument("--disable-dev-shm-usage")
 # Initialize the browser (Chrome)
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
-filename = "/home/rod/Documents/python-cc/analisisOfertasLab/scripts/data/links_computrabajo_p.txt"
+filename = "/home/rod/Documents/python-cc/links_computrabajo_p.txt"
 
 # Función para leer un archivo y devolver los enlaces en una lista
 def get_links(filename):
@@ -115,7 +115,7 @@ for link in all_links:
 df = pd.DataFrame(data)
 
 # Save the results to a CSV file
-df.to_csv("../../data/computrabajo/computrabajo_p4.csv", index=False)
+df.to_csv("/home/rod/Documents/python-cc/computrabajo_p11-14.csv", index=False)
 
 # Close the browser
 driver.quit()
