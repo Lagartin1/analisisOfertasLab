@@ -11,8 +11,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 
-NUMBER_OF_PAGES = 10 # Number of pages to go through to extract links
-
 # Selenium configuration and Chrome driver
 chrome_options = Options()
 # Change the User-Agent to simulate a real browser
@@ -24,68 +22,17 @@ chrome_options.add_argument("--disable-dev-shm-usage")
 # Initialize the browser (Chrome)
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
-# Access the website
-driver.get("https://cl.computrabajo.com/trabajo-de-desarrollador")
+filename = "/home/rod/Documents/python-cc/analisisOfertasLab/scripts/data/links_computrabajo_p.txt"
 
-# Wait for the page to load
-time.sleep(5)
-
-def extract_links():
-    # Find the JSON content within the <script type="application/ld+json"> tag
-    script_element = driver.find_element(By.CSS_SELECTOR, "script[type='application/ld+json']")
-    
-    # Extract the content of the script
-    json_data = script_element.get_attribute("innerHTML")
-    
-    # Parse the JSON
-    data = json.loads(json_data)
-        
-    # Extract the links from the 'itemListElement' array
-    links = []
-    
-    # Check if the JSON contains the '@graph' key
-    if '@graph' in data:
-        # Iterate through the elements inside '@graph'
-        for item in data['@graph']:
-            # If the 'itemListElement' key exists, iterate through it
-            if 'itemListElement' in item:
-                for element in item['itemListElement']:
-                    # If there is a 'url' field, add it to the list of links
-                    if 'url' in element:
-                        links.append(element['url'])
-    
-    return links
-    
-    # Show the extracted links
-    #print("Links found:")
-    #for link in links:
-    #    print(link)
-
-# Function to navigate to the next page
-def go_to_next_page():
+# Función para leer un archivo y devolver los enlaces en una lista
+def get_links(filename):
     try:
-        # Find the "Next" button and get the link to the next page
-        next_button = driver.find_element(By.XPATH, '//span[@title="Siguiente"]')
-        next_page_url = next_button.get_attribute('data-path')  # Get the value of the data-path attribute
-        
-        if next_page_url:
-            driver.get(next_page_url)  # Load the next page using the link
-            time.sleep(3)  # Wait a bit for the new page to load
-        else:
-            print("No more pages.")
-            return False
-    except Exception as e:
-        print(f"Error while navigating to the next page: {e}")
-        return False
-    return True
-
-all_links = []
-
-for i in range(NUMBER_OF_PAGES):
-    all_links = all_links + extract_links()
-    go_to_next_page()
-
-#print(all_links)
+        with open(filename, 'r') as f:
+            # Leer las líneas, eliminando espacios en blanco y saltos de línea innecesarios
+            return set(line.strip() for line in f)
+    except FileNotFoundError:
+        print(f"El archivo {filename} no se encontró.")
+        return set()
 
 def extract_data(link):
     # Load the page
@@ -95,65 +42,80 @@ def extract_data(link):
     driver.implicitly_wait(5)
 
     # Initialize default values
-    salary_value = "N/A"
-    company_name = "N/A"
-    region = "N/A"
-    commune = "N/A"
-    job_title = "N/A"
+    salary_value = "NaN"
+    company_name = "NaN"
+    region = "NaN"
+    commune = "NaN"
+    job_title = "NaN"
+    description = "NaN"
 
     try:
-        # Extract Salary
-        salary_element = driver.find_element(By.XPATH, '//span[@itemprop="baseSalary"]/meta[@itemprop="value"]')
-        salary_value = salary_element.get_attribute("content")
-    except:
-        pass
+        # Esperar hasta que el bloque <script type="application/ld+json"> esté presente en la página
+        script_element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//script[@type='application/ld+json']"))
+        )
 
-    try:
-        # Extract Company
-        company_element = driver.find_element(By.XPATH, '//span[@itemprop="hiringOrganization"]/meta[@itemprop="name"]')
-        company_name = company_element.get_attribute("content")
-    except:
-        pass
+        # Extraemos el contenido JSON del bloque <script>
+        json_data = script_element.get_attribute('innerHTML')
 
-    try:
-        # Extract Region and Commune
-        location_element = driver.find_element(By.XPATH, '//span[@itemprop="jobLocation"]/span[@itemprop="address"]')
-        region = location_element.find_element(By.XPATH, './/meta[@itemprop="addressLocality"]').get_attribute("content")
-        commune = location_element.find_element(By.XPATH, './/meta[@itemprop="addressRegion"]').get_attribute("content")
-    except:
-        pass
+        # Convertimos el contenido JSON en un diccionario de Python
+        data = json.loads(json_data)
 
-    try:
-        # Extract Job Title
-        title_element = driver.find_element(By.XPATH, '/html/body/main/span/meta[1]')
-        job_title = title_element.get_attribute('content')
+        salary_value = data['@graph'][2]['baseSalary']['value']['value']
+        company_name = data['@graph'][2]['hiringOrganization']['name']
+        region = data['@graph'][2]['jobLocation']['address']['addressLocality']
+        commune = data['@graph'][2]['jobLocation']['address']['addressRegion']
+        job_title = data['@graph'][2]['title']
+        # Utilizamos XPath para acceder directamente al tercer objeto dentro de la clave "@graph" y obtener la descripción
+        job_description = data['@graph'][2]['description']
+
+        # Reemplazamos las etiquetas <br> por un espacio simple
+        description = job_description.replace("<br/>", " ")
     except:
         pass
     
+    if (salary_value == 0):
+        salary_value = "NaN"
+
+    r_string1 = "R."
+    r_string2 = "Santiago - "
+    
+    if (r_string1 in region):
+        region = region.replace(r_string1,"")
+    if (r_string2 in commune):
+        commune = commune.replace(r_string2,"")
+
     # Gather all extracted data
     job_data = {
         "Salario": salary_value,
         "Empresa": company_name,
         "Comuna": commune,
         "Región": region,
-        "Cargo": job_title
+        "Cargo": job_title,
+        "Descripción": description
     }
     
     return job_data
 
+# Get links from .txt
+all_links = get_links(filename)
+
 # Create the DataFrame
 data = []
+
+c = 1
 
 for link in all_links:
     job_data = extract_data(link)
     data.append(job_data)
-    print(link)
+    print(c,link)
+    c += 1
     time.sleep(randint(527852,1527852)/1000000)
 
 df = pd.DataFrame(data)
 
 # Save the results to a CSV file
-df.to_csv("../../data/computrabajo/computrabajo2.csv", index=False)
+df.to_csv("../../data/computrabajo/computrabajo_p4.csv", index=False)
 
 # Close the browser
 driver.quit()
