@@ -115,7 +115,7 @@ for link in all_links:
 df = pd.DataFrame(data)
 
 # Save the results to a CSV file
-df.to_csv("/home/rod/Documents/python-cc/computrabajo_p11-14.csv", index=False)
+df.to_csv("/home/rod/Documents/python-cc/computrabajo_p25-30.csv", index=False)
 
 # Close the browser
 driver.quit()
