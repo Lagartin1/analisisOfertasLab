@@ -1,0 +1,6 @@
+selenium
+dotenv
+jupyterlab
+notebook
+matplotlib
+pandas
