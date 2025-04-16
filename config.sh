@@ -1,31 +1,31 @@
 #!/bin/bash
 
-# Name of the .env file
-env_file=".env"
+# Nombre del archivo .env
+archivo_env=".env"
 
-# Check if the .env file already exists
-if [ -f "$env_file" ]; then
-    echo "The $env_file file already exists. Do you want to overwrite it? (y/n)"
-    read response
-    if [ "$response" != "y" ]; then
-        echo "The file has not been overwritten."
+# Verificar si el archivo .env ya existe
+if [ -f "$archivo_env" ]; then
+    echo "El archivo $archivo_env ya existe. ¿Deseas sobrescribirlo? (s/n)"
+    read respuesta
+    if [ "$respuesta" != "s" ]; then
+        echo "El archivo no ha sido sobrescrito."
         exit 1
     fi
 fi
 
-# Create the .env file with basic variables
-echo "Creating the .env file..."
+# Crear el archivo .env con variables básicas
+echo "Creando el archivo .env..."
 
-cat <<EOL > "$env_file"
-# Config file
+cat <<EOL > "$archivo_env"
+# Archivo de configuración
 
 LINK_FILE_1=
 CSV_CHILETRABAJOS=
 CSV_COMPUTRABAJO=
-LINK_FILE_2 =
-CSV_INDEED =
+LINK_FILE_2=
+CSV_INDEED=
 LINK_FILE_3=
 
 EOL
 
-echo "The .env file has been created successfully."
+echo "El archivo .env ha sido creado exitosamente."
