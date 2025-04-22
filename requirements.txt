@@ -4,3 +4,4 @@ jupyterlab
 notebook
 matplotlib
 pandas
+squarify

@@ -1,0 +1,472 @@
+abogado
+asesor
+atención al cliente mesón
+calidad
+control
+inventario
+contable
+asistente contable
+asistente
+ayudante
+ayudantes
+bodeguero/a
+cajero
+encargado audiovisual
+encargado bodega
+encargado taller
+encargado administración
+encargado cobranzas
+chofer
+paramédico
+paramédico
+comprador
+consignador
+conductor
+contador general
+contadora auditores
+coordinador
+coordinadora
+dibujante cad
+digitador calidad
+digitador ecommerce
+digitadora
+diseñador gráfico
+electricista
+eléctrico
+eléctrico
+electromecánico
+electromecánico
+electrónico
+electrónico/a
+evaluador créditos
+facilitador
+enfermera
+recepcionista
+fiscalizadora
+gerente proyectos
+agrónomo
+implantadora
+estandarización
+estructural
+mecánico
+ingeniero proyectos
+rrhh
+ingeniero topógrafo
+jefe atracción
+jefe operaciones
+jefe rrhh
+jefe servicio al cliente
+jefe taller
+jefe terreno
+jefe planificación
+planta construcción
+jefe oficina técnica
+jefe zonal
+junior para rent a car
+junior rent a car
+maestro eléctrico instalador
+mantenedor planta
+mantenedor eléctrico
+mecánico
+mecánicos
+médico/a
+mercaderista
+merchandiser
+monitor
+monitora
+muestreadora
+nutricionista
+operador
+operario
+operario verificador recepción y despacho 790000
+personal aseo
+planificador
+programador spci
+promotora para padre hurtado región metropolitana turno fijo
+proyecto eléctrico zona norte
+quality professional
+recepcionista 30 hrs san fernando
+recepcionista despachador
+recepcionista despachador bodeguero mejillones
+reponedor
+representante
+romanero romanero san rafael molina
+casa
+despachador
+despachador
+supervisor
+tesorero
+tomador muestras
+tomador muestras agua
+topógrafo
+topógrafo traductor
+ts reemplazo san vicente tagua tagua
+urgente controlador perforación el salar
+urgente eléctrico la negra
+vendedor ruta food service
+vendedor fábrica ventanas
+virtual case manager home office
+visual merchandising horario mall
+benefits assistant
+call center supervisor
+chief
+conversion copywriter
+hr admin lead
+human resources
+business partner
+senior product owner
+supply chain analyst
+actor
+actriz
+administrativo
+agricultor
+agricultora
+albañil
+arquitecto
+aseador
+aseadora
+asesor
+asesora
+asistente
+asistente de aula
+auxiliar
+ayudante
+barbera
+barbero
+barista
+bartender
+bodega
+bodeguero
+bombera
+bombero
+cajera
+cajero
+camarero
+capataz de campo
+captador
+captadores
+carnicera
+carnicero
+carpintero
+cartógrafa
+cartógrafo
+cerrajera
+cerrajero
+chef
+chief
+chofer
+chofer de maquinaria pesada
+cocinero
+comercial
+conductor
+conductor de bus
+conductor de camión
+conductora de bus
+conductora de camión
+conserje
+contador
+coordinador académico
+coordinadora académica
+costurera
+costurero
+dibujante
+diseñador gráfico
+diseñadora gráfica
+ebanista
+educador
+educadora
+ejecutiva
+ejecutivo
+electricista
+eléctrico
+electromecánico
+electrónico
+enfermera
+enfermero/a
+enfermeros
+escritor
+escritora
+estilista
+farmacia
+fotógrafa
+fotógrafo
+garzón
+gasfiter
+gasfiteras
+gasfitería
+gasfitero
+gasfiteros
+gendarme
+geodesta
+geofísico
+geofísica
+geóloga
+geólogo
+guardia
+guardia de seguridad
+guardia de seguridad privada
+herrero
+horquilla
+horquillero
+jardinero
+joyera
+joyero
+kinesióloga
+kinesiólogo
+limpiador
+limpiadora
+maestra de obra
+maestra pastelera
+maestro de obra
+maestro pastelero
+manual
+mecánica
+mecánico
+mecánicos
+mecánica automotriz
+mecánico automotriz
+mensajera
+mensajero
+mercaderista
+mesero
+modista
+mozo
+médica
+médico
+música
+músico
+nutricionista
+odontóloga
+odontólogo
+operador
+operador logístico
+operador minero
+operadora logística
+operadora minera
+operario
+panadera
+panadero
+paramédica
+paramédico
+pastelero
+peaje
+peluquera
+peluquero
+peona
+peoneta
+peón
+pintor
+pintor de construcción
+pintora de construcción
+planta
+policía
+portero
+profesor
+profesora
+promotor
+promotora
+proyectista
+psicóloga
+psicólogo
+recepcionista
+recursos humanos
+relojera
+relojero
+rent a car
+rent-a-car
+rentacar
+repartidor
+repartidor de mercancías
+repartidora de mercancías
+reponedor
+rrhh
+sastre
+secretaria
+secretario
+seguridad
+soldador
+tapicera
+tapicero
+taxista
+tecnóloga médica
+tecnólogo médico
+tens
+tienda
+tiendas
+tomador muestras
+topógrafa
+topógrafo
+trabajador agrícola
+trabajadora agrícola
+transporte
+técnica
+técnica agrícola
+técnica en emergencias
+técnica en enfermería
+técnico agrícola
+técnico en climatización
+técnico en emergencias
+técnico en enfermería
+técnico en refrigeración
+técnicos en enfermería
+vendedor
+vidriero
+vigilante
+vigilante privado
+zapatera
+zapatero
+paramédico
+clínica
+reclutador
+asesor
+abogado corporativo
+analista financiero
+arquitecto paisajista
+auditor financiero
+biólogo marino
+consultor ambiental
+consultor financiero
+contador auditor
+dentista
+economista
+educador diferencial
+enfermero clínico
+físico teórico
+geógrafo
+ingeniero agrónomo
+ingeniero comercial
+ingeniero en alimentos
+ingeniero en biotecnología
+ingeniero en construcción
+ingeniero en minas
+ingeniero en recursos naturales
+ingeniero en telecomunicaciones
+ingeniero forestal
+kinesiólogo deportivo
+médico cirujano
+nutricionista clínico
+odontólogo pediátrico
+psicólogo clínico
+químico farmacéutico
+sociólogo
+terapeuta ocupacional
+traductor técnico
+veterinario
+auxiliar
+artista plástico
+bailarín
+bailarina
+carpintera
+chef pastelero
+coreógrafo
+coreógrafa
+decorador de interiores
+decoradora de interiores
+diseñador de moda
+diseñadora de moda
+escultor
+escultora
+florista
+fotógrafo de bodas
+fotógrafa de bodas
+guía turístico
+guía turística
+horticultor
+horticultora
+jardinera
+maquillador profesional
+maquilladora profesional
+mecánico
+mecánica
+pastelera
+pastelero
+peluquero canino
+peluquera canina
+pescador
+pescadora
+piloto de drones
+piloto de helicóptero
+piloto de avión
+repostero
+repostera
+sommelier
+tatuador
+tatuadora
+tornero
+tornera
+vinicultor
+vinicultora
+cancha
+gimnasio
+piscina
+estadio
+parque de diversiones
+zoológico
+acuario
+granja
+rancho
+playa
+montaña
+bosque
+reserva natural
+camping
+centro ecuestre
+spa
+balneario
+hospital
+ingeniero de terreno
+personal de aseo
+digitador
+encargado de lubricentro
+chófer
+marketing
+prevencionista
+preparador de autos
+jefe de atracción de talentos 
+jefe de local
+jefe/a de capacitaciones
+electromecanico
+jefe de capacitación
+estadístico
+logística
+ccvtv
+tecnico en terreno
+técnico en terreno
+ejecutivos
+ejecutivo
+agente atención al consumidor
+maestro liniero
+excel
+ingeniero de preventa
+jefe capacitacion
+acreditador por proyecto
+ingeniero/as de preventa
+servicio al cliente
+construcción
+instalación
+acreditador por proyecto
+tecnólogo
+ventas
+ingeniero preventa
+community manager
+jefe/a capacitación
+comercio exterior
+instalador
+psicopedagogo
+jefe deposito
+jefe/a de pgc
+call center
+logisticas
+jefe de finanzas
+montajista
+diseñador grafico
+facturador sistema
+transportista
+picking
+diseñador de flores
+manipuladora de alimentos
+romanero
+expeditor 
+audiovisual
+abastecimiento
+cobranzas
