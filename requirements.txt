@@ -5,3 +5,4 @@ notebook
 matplotlib
 pandas
 squarify
+geopandas
