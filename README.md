@@ -27,6 +27,8 @@ El analisis se realiza en un Jupyter Notebook, donde se presenta el procesamient
     | CSV_INDEED     | ruta a el archivo `csv_indeed.csv`, que contendra los datos de indeed , esto esta en la caperta `scrips/data/indeed` |
     | LINK_FILE_2    | ruta a el archivo `links_computrabajo.txt`, que contendra links de computrabajo (solo usadas para scraping) |
     | LINK_FILE_3    | ruta a el archivo `links_indeed.txt`, que contendra links de indeed (solo usadas para scraping) |
+    | LINK_FILE_4    | ruta a el archivo `.txt`, que contendra links de bumeran (solo usadas para scraping) |
+    |GEOPANDAS_JSON| ruta a el archivo `chile.json`, que contendra los datos de geolocalizacion de las regiones de chile, esto esta en la caperta `scrips/data/geopandas` |
 
 
 ## Instrucciones

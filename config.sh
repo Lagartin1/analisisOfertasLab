@@ -14,6 +14,7 @@ if [ -f "$archivo_env" ]; then
 fi
 
 # Crear el archivo .env con variables básicas
+
 echo "Creando el archivo .env..."
 
 cat <<EOL > "$archivo_env"
@@ -25,6 +26,7 @@ CSV_COMPUTRABAJO=
 LINK_FILE_2=
 CSV_INDEED=
 LINK_FILE_3=
+GEOPANDAS_JSON=
 
 EOL
 

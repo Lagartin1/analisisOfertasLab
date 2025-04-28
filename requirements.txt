@@ -4,3 +4,5 @@ jupyterlab
 notebook
 matplotlib
 pandas
+squarify
+geopandas

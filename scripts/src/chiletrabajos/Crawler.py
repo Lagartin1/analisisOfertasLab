@@ -15,7 +15,7 @@ path = os.getenv("LINK_FILE_1")
 
 browse = webdriver.Chrome()
 
-browse.get("https://www.chiletrabajos.cl/trabajos/informatica")
+browse.get("https://www.chiletrabajos.cl/trabajos/informatica/870")
 
 wait = WebDriverWait(browse, 10)  # Define wait with a timeout of 10 seconds
 
@@ -37,12 +37,11 @@ with open(path, mode) as file:
     else:
         print("Appending to file")
     # mientras limitado a solo 2 paginas,luego solo cambiar a j<=2 por  True
-    j=1
+    j=30
     while True:
         print(f"Extracting page : {j}")
         for i in range(1, 31):
             try:
-                sleep(2)
                 elem = browse.find_element(By.XPATH, xpath + str(i) + xpath2)
                 href = elem.get_attribute("href")
                 file.write(href + "\n")
@@ -62,3 +61,4 @@ with open(path, mode) as file:
             print("No apareció popup")
         elem = elem = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, f"a.page-link[data-ci-pagination-page='{j}']")))
         elem.click()
+        sleep(2)
