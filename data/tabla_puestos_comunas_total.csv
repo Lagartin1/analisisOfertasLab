@@ -1,0 +1,381 @@
+Comuna,Puesto,Cantidad_Ofertas
+antofagasta,Administrador,3
+antofagasta,Analista,3
+antofagasta,Backend,1
+antofagasta,Business Intelligence,2
+antofagasta,Data Scientist,6
+antofagasta,Developer,4
+antofagasta,Especialista en Sistemas,4
+antofagasta,Ingeniero de IA,7
+antofagasta,Lider de proyecto,3
+antofagasta,Mobile,1
+antofagasta,Otros,11
+antofagasta,Redes,3
+antofagasta,Soporte Técnico,16
+antofagasta,Técnico,20
+antofagasta,UX/UI,4
+arica,Soporte Técnico,6
+arica,Técnico,1
+arica,UX/UI,1
+buin,Lider de proyecto,1
+buin,Otros,1
+buin,Soporte Técnico,1
+buin,UX/UI,2
+calama,Analista,3
+calama,Consultor,1
+calama,Developer,1
+calama,Otros,3
+calama,Soporte Técnico,3
+calama,Técnico,6
+calama,UX/UI,2
+cartagena,Administrador,1
+castro,Técnico,2
+catemu,Lider de proyecto,1
+cerrillos,Data Scientist,2
+cerro navia,Mobile,1
+chañaral,Developer,1
+chañaral,Especialista en Sistemas,1
+chillán,Analista,2
+chillán,Técnico,4
+chillán,UX/UI,1
+colina,Backend,1
+colina,Consultor,2
+colina,Práctica Profesional,1
+colina,QA,1
+colina,Soporte Técnico,1
+colina,UX/UI,2
+concepción,Administrador,1
+concepción,Analista,7
+concepción,Business Intelligence,1
+concepción,Consultor,2
+concepción,Data Scientist,2
+concepción,Developer,3
+concepción,Especialista en Sistemas,1
+concepción,Frontend,1
+concepción,Fullstack,1
+concepción,Lider de proyecto,1
+concepción,Otros,2
+concepción,Práctica Profesional,2
+concepción,Redes,1
+concepción,Soporte Técnico,7
+concepción,Técnico,11
+concepción,UX/UI,3
+conchalí,Otros,1
+concón,Técnico,1
+copiapó,Developer,3
+copiapó,Fullstack,1
+copiapó,Ingeniero de IA,1
+copiapó,Lider de proyecto,1
+copiapó,Mobile,4
+copiapó,Otros,1
+copiapó,Técnico,8
+copiapó,UX/UI,1
+coquimbo,Business Intelligence,1
+coquimbo,Ingeniero de IA,1
+coquimbo,Otros,1
+coquimbo,Soporte Técnico,1
+coquimbo,Técnico,2
+coronel,Soporte Técnico,1
+coya sur,Práctica Profesional,1
+coyhaique,Soporte Técnico,1
+coyhaique,Técnico,2
+curicó,Soporte Técnico,1
+curicó,Técnico,4
+el bosque,UX/UI,1
+estación central,Developer,1
+estación central,Ingeniero de IA,1
+huechuraba,Administrador,1
+huechuraba,Analista,3
+huechuraba,Data Scientist,1
+huechuraba,Developer,2
+huechuraba,Fullstack,1
+huechuraba,Ingeniero de IA,1
+huechuraba,Lider de proyecto,1
+huechuraba,Mobile,1
+huechuraba,Otros,1
+huechuraba,QA,1
+huechuraba,Soporte Técnico,5
+huechuraba,Técnico,3
+huechuraba,UX/UI,2
+illapel,UX/UI,3
+iquique,Analista,1
+iquique,Lider de proyecto,1
+iquique,Otros,2
+iquique,Redes,1
+iquique,Soporte Técnico,1
+iquique,Técnico,4
+iquique,UX/UI,4
+la cisterna,Ingeniero de IA,1
+la cisterna,Soporte Técnico,2
+la cisterna,Técnico,1
+la florida,Developer,1
+la florida,Ingeniero de IA,1
+la florida,Soporte Técnico,1
+la reina,Analista,1
+la serena,Administrador,1
+la serena,Ingeniero de IA,1
+la serena,Técnico,3
+la serena,UX/UI,1
+lampa,Analista,1
+lampa,Developer,2
+lampa,Otros,1
+lampa,Práctica Profesional,12
+las condes,Administrador,6
+las condes,Analista,34
+las condes,Backend,12
+las condes,Business Intelligence,5
+las condes,Ciberseguridad,4
+las condes,Cloud,5
+las condes,Consultor,12
+las condes,Data Scientist,22
+las condes,DevOps,1
+las condes,Developer,17
+las condes,Especialista en Sistemas,4
+las condes,Frontend,2
+las condes,Fullstack,13
+las condes,Ingeniero de IA,6
+las condes,Lider de proyecto,12
+las condes,Mobile,7
+las condes,Otros,11
+las condes,Práctica Profesional,6
+las condes,QA,6
+las condes,Redes,1
+las condes,Soporte Técnico,29
+las condes,Técnico,6
+las condes,UX/UI,11
+lima,Ingeniero de IA,1
+linares,Ingeniero de IA,1
+linares,Técnico,4
+lo barnechea,Cloud,10
+lo espejo,Ingeniero de IA,1
+los andes,Especialista en Sistemas,1
+los andes,Otros,1
+los andes,UX/UI,3
+los ángeles,Mobile,1
+los ángeles,Redes,1
+los ángeles,Técnico,2
+macul,Mobile,1
+macul,Soporte Técnico,2
+macul,Técnico,5
+maipú,Analista,1
+maipú,Ingeniero de IA,1
+maipú,Otros,1
+mejillones,Administrador,1
+mejillones,Developer,4
+mejillones,Soporte Técnico,1
+mejillones,Técnico,3
+melipilla,Consultor,1
+melipilla,Soporte Técnico,1
+mostazal,Analista,1
+mostazal,UX/UI,2
+osorno,Lider de proyecto,1
+osorno,Práctica Profesional,1
+osorno,Soporte Técnico,1
+osorno,Técnico,2
+ovalle,Soporte Técnico,1
+padre hurtado,Soporte Técnico,1
+paine,Otros,1
+peñaflor,Business Intelligence,1
+peñaflor,Ingeniero de IA,5
+peñaflor,Técnico,1
+peñalolén,Developer,1
+peñalolén,Ingeniero de IA,1
+peñalolén,Mobile,1
+providencia,Administrador,2
+providencia,Analista,10
+providencia,Backend,5
+providencia,Business Intelligence,1
+providencia,Cloud,5
+providencia,Consultor,1
+providencia,Data Scientist,5
+providencia,Developer,9
+providencia,Especialista en Sistemas,3
+providencia,Frontend,3
+providencia,Fullstack,7
+providencia,Ingeniero de IA,2
+providencia,Lider de proyecto,4
+providencia,Mobile,13
+providencia,Otros,4
+providencia,Práctica Profesional,2
+providencia,QA,1
+providencia,Soporte Técnico,12
+providencia,Técnico,3
+providencia,UX/UI,4
+pudahuel,Analista,2
+pudahuel,Backend,1
+pudahuel,Data Scientist,1
+pudahuel,Developer,5
+pudahuel,Ingeniero de IA,4
+pudahuel,Mobile,3
+pudahuel,Otros,3
+pudahuel,QA,1
+pudahuel,Técnico,4
+puente alto,Otros,1
+puente alto,Práctica Profesional,1
+puente alto,Técnico,1
+puerto montt,Cloud,1
+puerto montt,Consultor,1
+puerto montt,DevOps,1
+puerto montt,Developer,3
+puerto montt,Lider de proyecto,1
+puerto montt,Soporte Técnico,3
+puerto montt,Técnico,3
+puerto natales,Soporte Técnico,1
+puerto varas,Analista,1
+puerto varas,Soporte Técnico,1
+punta arenas,Otros,1
+punta arenas,Soporte Técnico,1
+punta arenas,Técnico,2
+quilicura,Analista,2
+quilicura,Backend,1
+quilicura,Consultor,1
+quilicura,Data Scientist,1
+quilicura,Developer,1
+quilicura,Ingeniero de IA,5
+quilicura,Lider de proyecto,3
+quilicura,Práctica Profesional,1
+quilicura,Soporte Técnico,2
+quilicura,Técnico,1
+quilicura,UX/UI,24
+quillota,Otros,2
+quillota,Técnico,1
+quillota,UX/UI,2
+quilpué,Developer,1
+quilpué,Técnico,3
+quilpué,UX/UI,1
+quinta normal,Práctica Profesional,1
+rancagua,Administrador,1
+rancagua,Analista,2
+rancagua,Business Intelligence,1
+rancagua,Data Scientist,3
+rancagua,Mobile,1
+rancagua,Otros,2
+rancagua,Práctica Profesional,2
+rancagua,Soporte Técnico,5
+rancagua,Técnico,9
+rancagua,UX/UI,1
+recoleta,Developer,1
+recoleta,Ingeniero de IA,1
+renca,Analista,1
+renca,Consultor,11
+salamanca,Business Intelligence,1
+salamanca,Otros,1
+salamanca,Soporte Técnico,2
+san antonio,Técnico,1
+san bernardo,Administrador,1
+san bernardo,Analista,2
+san bernardo,Ingeniero de IA,1
+san bernardo,QA,1
+san felipe,Ingeniero de IA,1
+san felipe,Técnico,1
+san fernando,Técnico,1
+san joaquín,Administrador,1
+san joaquín,Analista,2
+san joaquín,Mobile,1
+san joaquín,Técnico,1
+san miguel,Frontend,1
+san miguel,Otros,1
+san miguel,Práctica Profesional,1
+san miguel,Técnico,1
+santiago,Administrador,47
+santiago,Analista,110
+santiago,Backend,62
+santiago,Business Intelligence,5
+santiago,Ciberseguridad,14
+santiago,Cloud,32
+santiago,Consultor,41
+santiago,Data Scientist,65
+santiago,DevOps,12
+santiago,Developer,145
+santiago,Especialista en Sistemas,14
+santiago,Frontend,33
+santiago,Fullstack,78
+santiago,Ingeniero de IA,23
+santiago,Lider de proyecto,109
+santiago,Mobile,44
+santiago,Otros,65
+santiago,Práctica Profesional,30
+santiago,QA,38
+santiago,Redes,24
+santiago,Soporte Técnico,92
+santiago,Técnico,81
+santiago,UX/UI,43
+santiago centro,Administrador,3
+santiago centro,Analista,20
+santiago centro,Backend,6
+santiago centro,Ciberseguridad,2
+santiago centro,Cloud,4
+santiago centro,Consultor,1
+santiago centro,Data Scientist,11
+santiago centro,DevOps,2
+santiago centro,Developer,11
+santiago centro,Especialista en Sistemas,1
+santiago centro,Frontend,3
+santiago centro,Fullstack,8
+santiago centro,Ingeniero de IA,4
+santiago centro,Lider de proyecto,12
+santiago centro,Mobile,5
+santiago centro,Otros,4
+santiago centro,Práctica Profesional,1
+santiago centro,QA,1
+santiago centro,Redes,2
+santiago centro,Soporte Técnico,13
+santiago centro,Técnico,7
+santiago centro,UX/UI,4
+sierra gorda,Mobile,1
+sierra gorda,Soporte Técnico,1
+talagante,Ingeniero de IA,1
+talagante,Soporte Técnico,1
+talca,Administrador,1
+talca,Otros,1
+talca,Redes,3
+talca,Soporte Técnico,1
+talca,Técnico,3
+talca,UX/UI,1
+talcahuano,Analista,1
+temuco,Analista,2
+temuco,Ingeniero de IA,1
+temuco,Otros,2
+temuco,Redes,1
+temuco,Soporte Técnico,1
+temuco,Técnico,7
+valdivia,Developer,1
+valdivia,Técnico,3
+valdivia,UX/UI,1
+valparaíso,Backend,1
+valparaíso,Data Scientist,1
+valparaíso,Developer,3
+valparaíso,Fullstack,1
+valparaíso,Mobile,1
+valparaíso,Otros,1
+valparaíso,Soporte Técnico,1
+valparaíso,Técnico,11
+valparaíso,UX/UI,2
+villarrica,Técnico,1
+vitacura,Analista,3
+vitacura,Backend,2
+vitacura,Business Intelligence,1
+vitacura,Cloud,1
+vitacura,Data Scientist,1
+vitacura,Developer,1
+vitacura,Fullstack,1
+vitacura,Ingeniero de IA,3
+vitacura,Otros,1
+vitacura,QA,1
+vitacura,Técnico,1
+viña del mar,Analista,2
+viña del mar,Data Scientist,2
+viña del mar,Ingeniero de IA,1
+viña del mar,Práctica Profesional,1
+viña del mar,QA,1
+viña del mar,Soporte Técnico,3
+viña del mar,Técnico,5
+viña del mar,UX/UI,1
+ñuñoa,Administrador,7
+ñuñoa,Analista,1
+ñuñoa,Data Scientist,2
+ñuñoa,Mobile,2
+ñuñoa,Otros,1
+ñuñoa,Práctica Profesional,3
+ñuñoa,Soporte Técnico,2
+ñuñoa,UX/UI,1
