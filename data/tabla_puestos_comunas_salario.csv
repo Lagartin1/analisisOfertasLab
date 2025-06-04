@@ -1,0 +1,575 @@
+Puesto,Ubicacion,Salario
+Administrador,santiago,2500000
+Developer,santiago,850000
+Ingeniero de IA,santiago,700000
+Técnico,santiago,630000
+Developer,copiapó,950000
+Otros,antofagasta,1500000
+Técnico,santiago,600000
+Cloud,santiago,2300000
+Técnico,copiapó,850000
+Técnico,santiago,850000
+Backend,valparaíso,200000
+Técnico,quilpué,850000
+Técnico,quilpué,850000
+Lider de proyecto,santiago,3300000
+Analista,santiago,1000000
+Técnico,antofagasta,850000
+Técnico,rancagua,850000
+Fullstack,santiago,1700000
+Técnico,quilpué,850000
+Developer,santiago,1700000
+Técnico,santiago,850000
+Técnico,rancagua,850000
+Técnico,santiago,850000
+Técnico,santiago,850000
+Mobile,santiago,1500000
+Mobile,santiago,18000000
+Técnico,santiago,750000
+Analista,santiago,1200000
+Administrador,santiago,900000
+Soporte Técnico,concepción,600000
+Developer,santiago,1700000
+Analista,santiago,1600000
+Técnico,santiago,650000
+Técnico,concepción,1000000
+UX/UI,santiago,700000
+Mobile,santiago,2600000
+Soporte Técnico,santiago,650000
+Analista,santiago,1000000
+Cloud,santiago,1100000
+Data Scientist,santiago,2600000
+Técnico,santiago,800000
+Developer,santiago,2200000
+Práctica Profesional,santiago,200000
+Redes,talca,1000000
+Otros,santiago,2700000
+Práctica Profesional,santiago,150000
+Lider de proyecto,santiago,2300000
+Redes,concepción,1000000
+Fullstack,santiago,2000000
+Data Scientist,santiago,650000
+Data Scientist,santiago,1200000
+Lider de proyecto,santiago,1200000
+Técnico,santiago,950000
+UX/UI,santiago,1500000
+Analista,santiago,900000
+Técnico,rancagua,600000
+Analista,santiago,510636
+Developer,santiago,1800000
+Fullstack,santiago,2000000
+Redes,santiago,1100000
+Administrador,santiago,1100000
+Fullstack,santiago,2500000
+Fullstack,santiago,3200000
+Analista,santiago,850000
+Técnico,concepción,700000
+Analista,santiago,510636
+Soporte Técnico,santiago,600000
+Backend,antofagasta,1500000
+Analista,santiago,1150000
+Mobile,santiago,650000
+Developer,santiago,2500000
+Developer,santiago,1600000
+Otros,punta arenas,1000000
+Developer,puerto montt,1400000
+Otros,temuco,250000
+Soporte Técnico,santiago,2000000
+Backend,santiago,2300000
+Frontend,santiago,2300000
+Soporte Técnico,santiago,700000
+Cloud,santiago,2500000
+Administrador,santiago,1800000
+Técnico,santiago,800000
+Ingeniero de IA,santiago,1500000
+UX/UI,valparaíso,700000
+Data Scientist,santiago,2600000
+Data Scientist,santiago,2600000
+Analista,santiago,750000
+Soporte Técnico,santiago,627000
+Técnico,santiago,700000
+Analista,santiago,2100000
+Cloud,santiago,1500000
+Developer,santiago,850000
+Soporte Técnico,arica,700000
+Soporte Técnico,temuco,700000
+Técnico,santiago,500000
+Fullstack,santiago,1800000
+Developer,santiago,2500000
+Fullstack,santiago,1500000
+Mobile,santiago,610000
+Técnico,santiago,800000
+UX/UI,santiago,100000
+Developer,valdivia,1800000
+UX/UI,santiago,1300000
+Mobile,santiago,1500000
+Administrador,la serena,700000
+Otros,antofagasta,1000000
+UX/UI,santiago,650000
+UX/UI,santiago,650000
+UX/UI,santiago,1300000
+Administrador,santiago,1000000
+UX/UI,santiago,650000
+Técnico,santiago,600000
+UX/UI,santiago,650000
+Lider de proyecto,santiago,1500000
+UX/UI,quillota,650000
+Analista,santiago,1100000
+Otros,antofagasta,1000000
+UX/UI,santiago,650000
+UX/UI,santiago,650000
+UX/UI,santiago,1300000
+Administrador,santiago,1000000
+UX/UI,santiago,650000
+Técnico,santiago,600000
+UX/UI,santiago,650000
+Lider de proyecto,santiago,1500000
+UX/UI,quillota,650000
+Analista,santiago,1100000
+Técnico,santiago,750000
+Data Scientist,santiago,1500000
+Soporte Técnico,santiago,650000
+Analista,santiago,800000
+Técnico,santiago,650000
+Analista,santiago,700000
+Técnico,antofagasta,1300000
+Técnico,valparaíso,650000
+Práctica Profesional,santiago,400000
+Soporte Técnico,antofagasta,1500000
+Consultor,santiago,1000000
+Técnico,santiago,700000
+Soporte Técnico,santiago,700000
+Data Scientist,santiago,2300000
+Lider de proyecto,santiago,1800000
+Redes,santiago,1200000
+Cloud,santiago,2400000
+Técnico,santiago,800000
+QA,santiago,2200000
+Backend,santiago,2300000
+Developer,santiago,1600000
+Soporte Técnico,santiago,1200000
+Técnico,santiago,600000
+Analista,santiago,700000
+Ingeniero de IA,santiago,1800000
+Consultor,santiago,3000000
+Analista,temuco,550000
+QA,santiago,2000000
+QA,santiago,2000000
+Técnico,santiago,800000
+Técnico,santiago,520000
+Soporte Técnico,santiago,750000
+Práctica Profesional,colina,300000
+Developer,santiago,800000
+Técnico,santiago,700000
+Otros,santiago,600000
+QA,santiago,1000000
+Soporte Técnico,santiago,800000
+Backend,santiago,1600000
+Developer,santiago,1700000
+Técnico,antofagasta,1400000
+Backend,santiago,2500000
+Administrador,santiago,2000000
+Técnico,temuco,1000000
+Soporte Técnico,santiago,615000
+Soporte Técnico,santiago,680000
+Técnico,santiago,550000
+DevOps,santiago,3000000
+Técnico,santiago,900000
+Business Intelligence,santiago,1300000
+Developer,santiago centro,2200000
+Otros,huechuraba,2500000
+Frontend,santiago centro,1550000
+Fullstack,santiago centro,2200000
+Cloud,providencia,1800000
+Lider de proyecto,las condes,2500000
+UX/UI,quilicura,1400000
+Backend,santiago centro,1400000
+Lider de proyecto,santiago centro,2700000
+Cloud,santiago centro,2400000
+Developer,las condes,1000000
+Fullstack,las condes,3000000
+Técnico,mejillones,1100000
+Data Scientist,santiago centro,2200000
+Otros,las condes,1500000
+UX/UI,colina,2000000
+Analista,providencia,2500000
+Data Scientist,antofagasta,1500000
+Lider de proyecto,providencia,2499993
+Fullstack,las condes,2000000
+Ingeniero de IA,peñaflor,1200000
+Especialista en Sistemas,los andes,1000000
+UX/UI,calama,1000000
+Data Scientist,santiago centro,2200000
+Fullstack,santiago centro,2200000
+Data Scientist,santiago centro,2200000
+UX/UI,quilicura,1599997
+Ingeniero de IA,recoleta,1400000
+Analista,las condes,1800000
+Backend,las condes,2500000
+Analista,san bernardo,1000000
+Developer,las condes,1000000
+UX/UI,las condes,1500000
+UX/UI,las condes,1100000
+QA,vitacura,2800000
+Lider de proyecto,antofagasta,2000000
+Mobile,copiapó,2500000
+Analista,san bernardo,1000000
+Técnico,macul,1400000
+UX/UI,quilicura,1300000
+Técnico,macul,1400000
+Otros,santiago centro,1000000
+Cloud,lo barnechea,2700000
+Técnico,santiago centro,2700000
+Cloud,lo barnechea,2700000
+Developer,copiapó,1600000
+UX/UI,santiago centro,4500000
+Developer,lampa,1800000
+Developer,providencia,1000000
+UX/UI,chillán,11111108
+Consultor,renca,1400000
+UX/UI,antofagasta,1000000
+Consultor,providencia,1000000
+UX/UI,quilicura,1000000
+Cloud,lo barnechea,2700000
+Otros,antofagasta,2097000
+Soporte Técnico,calama,1500000
+UX/UI,quilicura,1000000
+Soporte Técnico,arica,1000000
+Consultor,renca,1400000
+Backend,providencia,2500000
+Técnico,calama,1200000
+Fullstack,providencia,1999999
+DevOps,santiago centro,3000000
+Otros,copiapó,2000000
+Mobile,las condes,1200000
+Redes,las condes,1200000
+UX/UI,quilicura,1300000
+Soporte Técnico,colina,1170000
+Lider de proyecto,providencia,1111109
+QA,las condes,1800000
+Developer,providencia,1000000
+Developer,pudahuel,1300000
+Fullstack,huechuraba,2500000
+UX/UI,quilicura,1100000
+Lider de proyecto,providencia,1800000
+Business Intelligence,antofagasta,2600000
+DevOps,santiago centro,2800000
+Consultor,renca,1400000
+Cloud,lo barnechea,2700000
+UX/UI,santiago centro,4500000
+Developer,providencia,1500000
+Frontend,providencia,1800000
+Backend,las condes,2500000
+Developer,santiago centro,2100000
+Backend,providencia,2200000
+Developer,las condes,1000000
+Analista,las condes,1000000
+Redes,santiago centro,2000000
+UX/UI,los andes,1400000
+Analista,las condes,1000000
+Analista,santiago centro,2200000
+Frontend,santiago centro,1800000
+Developer,calama,1000000
+Mobile,santiago centro,1700000
+Ingeniero de IA,pudahuel,1000000
+Ingeniero de IA,vitacura,1000000
+Otros,temuco,1500000
+Developer,vitacura,2000000
+Lider de proyecto,santiago centro,3000000
+Analista,vitacura,1400000
+Analista,santiago centro,1999998
+Analista,concepción,1111110
+Técnico,santiago centro,2500000
+UX/UI,providencia,2600000
+Developer,mejillones,1100000
+Cloud,santiago centro,1900000
+Técnico,peñaflor,1000000
+UX/UI,quilicura,1100000
+Técnico,macul,1400000
+Técnico,pudahuel,1120000
+Consultor,colina,2000000
+UX/UI,quilicura,1300000
+Fullstack,providencia,2000000
+Analista,las condes,1750000
+Analista,huechuraba,1500000
+Soporte Técnico,santiago centro,1100000
+Data Scientist,las condes,1900000
+Consultor,renca,1400000
+Redes,santiago centro,2000000
+Backend,las condes,1500000
+Data Scientist,las condes,1000000
+Data Scientist,antofagasta,1500000
+Developer,huechuraba,1900000
+Lider de proyecto,buin,1999999
+Analista,viña del mar,1800000
+Backend,santiago centro,2800000
+Analista,vitacura,1400000
+Soporte Técnico,providencia,1100000
+Técnico,las condes,1100000
+Lider de proyecto,antofagasta,2000000
+Soporte Técnico,antofagasta,1300000
+Analista,ñuñoa,1300000
+Analista,santiago centro,2200000
+Analista,talcahuano,1111110
+Data Scientist,santiago centro,2200000
+Consultor,santiago centro,2600000
+QA,las condes,1400000
+Analista,las condes,2200000
+Fullstack,providencia,1000000
+Fullstack,las condes,2500000
+Developer,santiago centro,2100000
+UX/UI,quilicura,1299998
+Especialista en Sistemas,las condes,2000000
+Analista,las condes,1100000
+QA,las condes,1800000
+Analista,santiago centro,1200000
+Developer,pudahuel,1302000
+Backend,vitacura,2000000
+Técnico,la serena,2000000
+Especialista en Sistemas,chañaral,1111108
+Data Scientist,santiago centro,2200000
+Analista,antofagasta,1200000
+Backend,santiago centro,2500000
+Soporte Técnico,santiago centro,1000000
+Data Scientist,las condes,1000000
+Cloud,lo barnechea,2700000
+Cloud,las condes,1000000
+Developer,santiago centro,1600000
+Soporte Técnico,antofagasta,1000000
+Lider de proyecto,las condes,2000000
+Analista,santiago centro,1700000
+Developer,santiago centro,1600000
+Analista,las condes,1500000
+Lider de proyecto,santiago centro,2000000
+Técnico,mejillones,1100000
+Práctica Profesional,las condes,1499999
+Ingeniero de IA,santiago centro,1600000
+Developer,mejillones,1100000
+Técnico,copiapó,12365449
+Lider de proyecto,santiago centro,2200000
+UX/UI,los andes,1400000
+Ingeniero de IA,peñaflor,1200000
+Técnico,macul,1400000
+Cloud,las condes,5000000
+Backend,quilicura,1600000
+Analista,las condes,1199999
+Developer,antofagasta,1000000
+Data Scientist,santiago centro,2200000
+Soporte Técnico,huechuraba,1200000
+Consultor,renca,1400000
+Developer,antofagasta,2700000
+Administrador,providencia,2000000
+Redes,talca,2000000
+Lider de proyecto,providencia,1800000
+Lider de proyecto,santiago centro,2200000
+Técnico,iquique,2000000
+Cloud,lo barnechea,2700000
+Backend,providencia,1800000
+Consultor,renca,1400000
+Técnico,antofagasta,1000000
+Developer,santiago centro,1600000
+Mobile,providencia,2500000
+Mobile,providencia,2500000
+Analista,santiago centro,1000000
+Técnico,copiapó,1000000
+Ingeniero de IA,santiago centro,1600000
+Administrador,las condes,2500000
+Analista,santiago centro,1000000
+UX/UI,calama,1000000
+Backend,las condes,2500000
+Data Scientist,santiago centro,2200000
+Consultor,quilicura,2000000
+UX/UI,quilicura,1302000
+Analista,las condes,1500000
+Especialista en Sistemas,antofagasta,2200000
+Administrador,santiago centro,1000000
+Administrador,mejillones,1900000
+Data Scientist,providencia,1800000
+Técnico,antofagasta,1500000
+Cloud,las condes,2000000
+Cloud,santiago centro,2500000
+Ingeniero de IA,antofagasta,1700000
+Mobile,cerro navia,2510000
+Soporte Técnico,las condes,1500000
+Fullstack,providencia,1200000
+Analista,quilicura,1300000
+Analista,las condes,1800000
+Ingeniero de IA,peñaflor,1200000
+Backend,las condes,2000000
+Lider de proyecto,santiago centro,2500000
+Developer,las condes,1000000
+Ingeniero de IA,peñaflor,1200000
+Fullstack,santiago centro,1800000
+Técnico,antofagasta,1000000
+Backend,las condes,2500000
+Data Scientist,cerrillos,2500000
+Especialista en Sistemas,providencia,2000000
+Cloud,vitacura,2200000
+Lider de proyecto,las condes,2000000
+UX/UI,antofagasta,1000000
+UX/UI,las condes,1900000
+Developer,lampa,1700000
+Lider de proyecto,santiago centro,2200000
+Ingeniero de IA,peñaflor,1200000
+Lider de proyecto,las condes,2500000
+Data Scientist,las condes,1000000
+Otros,salamanca,1000000
+Developer,santiago centro,1800000
+UX/UI,las condes,1900000
+Developer,antofagasta,1500000
+UX/UI,quilicura,1300000
+UX/UI,quilicura,1300000
+Ingeniero de IA,santiago centro,1600000
+Otros,conchalí,1500000
+Fullstack,santiago centro,2000000
+Lider de proyecto,las condes,2500000
+Backend,santiago centro,1200000
+Ciberseguridad,santiago centro,1400000
+Cloud,santiago centro,1900000
+Lider de proyecto,las condes,2500000
+Lider de proyecto,santiago centro,2200000
+UX/UI,los andes,1400000
+Analista,providencia,1150000
+Analista,santiago centro,1000000
+UX/UI,santiago centro,1500000
+Cloud,lo barnechea,2700000
+Analista,las condes,1150000
+Consultor,renca,1400000
+Consultor,renca,1400000
+UX/UI,santiago centro,1300000
+Developer,pudahuel,1300000
+Analista,santiago centro,1500000
+Data Scientist,las condes,1000000
+Mobile,las condes,1100000
+Consultor,renca,1400000
+Lider de proyecto,santiago centro,2200000
+Analista,santiago centro,1700000
+Especialista en Sistemas,santiago centro,1800000
+Cloud,providencia,1800000
+Developer,concepción,1300000
+Fullstack,santiago centro,2200000
+Business Intelligence,las condes,2400000
+UX/UI,antofagasta,1000000
+Developer,puerto montt,1500000
+Backend,las condes,1000000
+Data Scientist,vitacura,1200000
+Mobile,copiapó,2000000
+Mobile,santiago centro,1700000
+Developer,las condes,1200000
+Data Scientist,santiago centro,1000000
+Ingeniero de IA,vitacura,1000000
+Administrador,cartagena,1196307
+Mobile,santiago centro,1700000
+Soporte Técnico,huechuraba,1200000
+Cloud,lo barnechea,2700000
+Analista,santiago centro,2100000
+Lider de proyecto,santiago centro,2200000
+Data Scientist,cerrillos,2500000
+Cloud,lo barnechea,2700000
+Fullstack,santiago centro,2500000
+Analista,las condes,1000000
+Mobile,santiago centro,1700000
+Administrador,huechuraba,1150000
+Consultor,renca,1400000
+Lider de proyecto,las condes,2500000
+Especialista en Sistemas,providencia,2100000
+Soporte Técnico,las condes,1200000
+Analista,santiago centro,1700000
+QA,santiago centro,2200000
+Especialista en Sistemas,las condes,2000000
+UX/UI,las condes,5500000
+Developer,santiago centro,2600000
+Developer,providencia,2500000
+Soporte Técnico,arica,1000000
+Developer,las condes,1000000
+Técnico,concón,1027000
+Ciberseguridad,las condes,1100000
+Frontend,providencia,2200000
+Consultor,renca,1400000
+Data Scientist,antofagasta,2000000
+Cloud,providencia,2700000
+Analista,santiago centro,1050000
+Mobile,los ángeles,14000000
+Analista,las condes,1100000
+Ingeniero de IA,pudahuel,1400000
+Backend,pudahuel,1200000
+Ingeniero de IA,pudahuel,1400000
+Técnico,antofagasta,1500000
+Data Scientist,santiago centro,2200000
+UX/UI,quilicura,1300000
+Ciberseguridad,santiago centro,1400000
+Soporte Técnico,antofagasta,1100000
+Backend,vitacura,1400000
+Developer,santiago centro,2500000
+Developer,la florida,1200000
+Frontend,santiago centro,2000000
+Consultor,colina,2000000
+Data Scientist,viña del mar,1000000
+Backend,santiago centro,1200000
+UX/UI,providencia,1000000
+Técnico,antofagasta,1400000
+UX/UI,antofagasta,1700000
+Técnico,antofagasta,1400000
+Cloud,providencia,2900000
+Developer,mejillones,1100000
+Especialista en Sistemas,antofagasta,1800000
+Developer,pudahuel,1300000
+Developer,santiago centro,1500000
+Business Intelligence,peñaflor,1200000
+Developer,mejillones,1099999
+Soporte Técnico,antofagasta,1300000
+Técnico,pudahuel,1120000
+Ingeniero de IA,santiago centro,1600000
+Analista,santiago centro,1000000
+Developer,pudahuel,1300000
+Developer,las condes,1400000
+Fullstack,santiago centro,1800000
+Lider de proyecto,santiago centro,2200000
+Fullstack,providencia,2000000
+Developer,las condes,1700000
+Backend,santiago centro,1200000
+Soporte Técnico,antofagasta,2500000
+Developer,las condes,2800000
+Cloud,lo barnechea,2700000
+Fullstack,providencia,2000000
+Analista,renca,1350000
+Analista,temuco,1800000
+Developer,santiago centro,2500000
+Administrador,las condes,1162047
+Developer,las condes,1000000
+Lider de proyecto,santiago centro,2200000
+Administrador,antofagasta,1800000
+Analista,pudahuel,1000000
+Lider de proyecto,las condes,1100000
+Cloud,providencia,2900000
+Redes,talca,2000000
+Lider de proyecto,santiago,1500000
+Ingeniero de IA,antofagasta,1000000
+Lider de proyecto,santiago,1500000
+Otros,quillota,1000000
+Soporte Técnico,santiago,1200000
+Soporte Técnico,santiago,1500000
+Ingeniero de IA,santiago,3000000
+Ingeniero de IA,santiago,3500000
+Developer,santiago,1500000
+Developer,santiago,2500000
+Especialista en Sistemas,santiago,2400000
+Especialista en Sistemas,santiago,2800000
+Business Intelligence,antofagasta,1500000
+Business Intelligence,antofagasta,2500000
+Analista,santiago,1000000
+Analista,santiago,1200000
+Administrador,las condes,1100000
+Fullstack,santiago,1700000
+Fullstack,santiago,2000000
+Administrador,san bernardo,2000000
+Administrador,san bernardo,2277000
+Data Scientist,santiago,1000000
+Data Scientist,santiago,1600000
+Analista,santiago,1000000
+Analista,santiago,1500000
+Backend,santiago,3500000
+Mobile,santiago,1000000
+Analista,las condes,1350000
+Soporte Técnico,huechuraba,1100000
+Analista,santiago,1100000
