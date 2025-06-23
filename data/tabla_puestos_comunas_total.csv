@@ -277,51 +277,29 @@ san miguel,Frontend,1
 san miguel,Otros,1
 san miguel,Práctica Profesional,1
 san miguel,Técnico,1
-santiago,Administrador,47
-santiago,Analista,110
-santiago,Backend,62
+santiago,Administrador,50
+santiago,Analista,130
+santiago,Backend,68
 santiago,Business Intelligence,5
-santiago,Ciberseguridad,14
-santiago,Cloud,32
-santiago,Consultor,41
-santiago,Data Scientist,65
-santiago,DevOps,12
-santiago,Developer,145
-santiago,Especialista en Sistemas,14
-santiago,Frontend,33
-santiago,Fullstack,78
-santiago,Ingeniero de IA,23
-santiago,Lider de proyecto,109
-santiago,Mobile,44
-santiago,Otros,65
-santiago,Práctica Profesional,30
-santiago,QA,38
-santiago,Redes,24
-santiago,Soporte Técnico,92
-santiago,Técnico,81
-santiago,UX/UI,43
-santiago centro,Administrador,3
-santiago centro,Analista,20
-santiago centro,Backend,6
-santiago centro,Ciberseguridad,2
-santiago centro,Cloud,4
-santiago centro,Consultor,1
-santiago centro,Data Scientist,11
-santiago centro,DevOps,2
-santiago centro,Developer,11
-santiago centro,Especialista en Sistemas,1
-santiago centro,Frontend,3
-santiago centro,Fullstack,8
-santiago centro,Ingeniero de IA,4
-santiago centro,Lider de proyecto,12
-santiago centro,Mobile,5
-santiago centro,Otros,4
-santiago centro,Práctica Profesional,1
-santiago centro,QA,1
-santiago centro,Redes,2
-santiago centro,Soporte Técnico,13
-santiago centro,Técnico,7
-santiago centro,UX/UI,4
+santiago,Ciberseguridad,16
+santiago,Cloud,36
+santiago,Consultor,42
+santiago,Data Scientist,76
+santiago,DevOps,14
+santiago,Developer,156
+santiago,Especialista en Sistemas,15
+santiago,Frontend,36
+santiago,Fullstack,86
+santiago,Ingeniero de IA,27
+santiago,Lider de proyecto,121
+santiago,Mobile,49
+santiago,Otros,69
+santiago,Práctica Profesional,31
+santiago,QA,39
+santiago,Redes,26
+santiago,Soporte Técnico,105
+santiago,Técnico,88
+santiago,UX/UI,47
 sierra gorda,Mobile,1
 sierra gorda,Soporte Técnico,1
 talagante,Ingeniero de IA,1
