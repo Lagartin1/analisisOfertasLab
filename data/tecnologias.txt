@@ -1,0 +1,675 @@
+Node.js
+Cross-Platform
+Frontend Development
+iOS
+Android
+IoT & Hybrid Apps
+Electron
+Cordova
+React Native
+Xamarin
+Linux
+Containers
+eBPF
+Arch-based Projects
+AppImage
+macOS
+Screensavers
+Apps
+Open Source Apps
+watchOS
+JVM
+Salesforce
+Amazon Web Services
+Windows
+PowerToys Run Plugins
+IPFS
+Fuse
+Heroku
+Raspberry Pi
+Qt
+WebExtensions
+Smart TV
+GNOME
+KDE
+.NET
+Core
+Roslyn
+Amazon Alexa
+DigitalOcean
+Flutter
+Home Assistant
+IBM Cloud
+Firebase
+Robot Operating System 2.0
+Adafruit IO
+Cloudflare
+Actions on Google
+ESP
+Deno
+DOS
+Nix
+Integration
+Node-RED
+Low Code
+Capacitor
+ArcGIS Developer
+Bluetooth Low Energy
+Uno Platform
+Google Cloud
+JavaScript
+Promises
+Standard Style
+Must Watch Talks
+Tips
+Network Layer
+Micro npm Packages
+Mad Science npm Packages
+Maintenance Modules
+npm
+AVA
+ESLint
+Functional Programming
+Observables
+npm scripts
+30 Seconds of Code
+Ponyfills
+Swift
+Education
+Playgrounds
+Python
+Asyncio
+Scientific Audio
+CircuitPython
+Data Science
+Typing
+MicroPython
+Rust
+Pest
+Haskell
+PureScript
+Go
+Scala
+Scala Native
+Ruby
+Clojure
+ClojureScript
+Elixir
+Elm
+Erlang
+Julia
+Lua
+C++
+C/C++
+Common Lisp
+Learning
+Perl
+Groovy
+Dart
+Java
+RxJava
+Kotlin
+OCaml
+ColdFusion
+Fortran
+PHP
+Composer
+Pascal
+AutoHotkey
+AutoIt
+Crystal
+Frege
+CMake
+ActionScript 3
+Eta
+Idris
+Ada/SPARK
+Q#
+Imba
+Vala
+Coq
+Zig
+Move
+Esolangs
+ES6 Tools
+Web Performance Optimization
+Web Tools
+CSS
+Critical-Path Tools
+Scalability
+Must-Watch Talks
+Protips
+Frameworks
+React
+Relay
+React Hooks
+Web Components
+Polymer
+Angular
+Backbone
+HTML5
+SVG
+Canvas
+KnockoutJS
+Dojo Toolkit
+Inspiration
+Ember
+Android UI
+iOS UI
+Meteor
+BEM
+Flexbox
+Web Typography
+Web Accessibility
+Material Design
+D3
+Emails
+jQuery
+Tips
+Web Audio
+Offline-First
+Static Website Services
+Cycle.js
+Text Editing
+Motion UI Design
+Vue.js
+Marionette.js
+Aurelia
+Charting
+Ionic Framework
+Chrome DevTools
+PostCSS
+Draft.js
+Service Workers
+Progressive Web Apps
+choo
+Redux
+Browserify
+Sass
+Ant Design
+Less
+WebGL
+Preact
+Progressive Enhancement
+Next.js
+JAMstack
+WordPress-Gatsby
+Mobile Web Development
+Storybook
+Blazor
+PageSpeed Metrics
+Tailwind CSS
+Seed
+Web Performance Budget
+Web Animation
+Yew
+Material-UI
+Building Blocks for Web Apps
+Svelte
+Design systems
+Inertia.js
+MDBootstrap
+Master CSS
+Hydrogen
+Tiny JS
+Frontend GIS
+Flask
+Docker
+Vagrant
+Pyramid
+Play1 Framework
+CakePHP
+Symfony
+Education
+Laravel
+Education
+TALL Stack
+Rails
+Gems
+Phalcon
+Useful `.htaccess` Snippets
+nginx
+Dropwizard
+Kubernetes
+Lumen
+Serverless Framework
+Apache Wicket
+Vert.x
+Terraform
+Vapor
+Dash
+FastAPI
+CDK
+IAM
+Slim
+Fiber
+Kustomize
+OpenTofu
+Reflex
+University Courses
+Data Science
+Tutorials
+Machine Learning
+Tutorials
+ML with Ruby
+Core ML Models
+H2O
+Software Engineering for Machine Learning
+AI in Finance
+JAX
+XAI
+Speech and Natural Language Processing
+Spanish
+NLP with Ruby
+Question Answering
+Natural Language Generation
+Linguistics
+Cryptography
+Papers
+Computer Vision
+Deep Learning
+TensorFlow
+TensorFlow.js
+TensorFlow Lite
+Papers
+Education
+Deep Vision
+Open Source Society University
+Functional Programming
+Empirical Software Engineering
+Static Analysis & Code Quality
+Information Retrieval
+Quantum Computing
+Theoretical Computer Science
+Conversational AI
+Generative AI
+Big Data
+Public Datasets
+Hadoop
+Data Engineering
+Streaming
+Apache Spark
+Qlik
+Splunk
+Network Analysis
+Papers We Love
+Talks
+Algorithms
+Education
+Algorithm Visualizations
+Artificial Intelligence
+Search Engine Optimization
+Competitive Programming
+Math
+Recursion Schemes
+Audit Algorithms
+AGI & CoCoSci
+Complex Systems
+VLM Architectures
+Free Programming Books
+Go Books
+R Books
+Mind Expanding Books
+Book Authoring
+Elixir Books
+Sublime Text
+Vim
+Neovim
+Emacs
+Atom
+Visual Studio Code
+Game Development
+Game Talks
+Godot
+Open Source Games
+Unity
+Chess
+LÖVE
+PICO-8
+Game Boy Development
+Construct 2
+Gideros
+Minecraft
+ComputerCraft
+Game Datasets
+Haxe Game Development
+libGDX
+PlayCanvas
+Game Remakes
+Flame
+Discord Communities
+CHIP-8
+Games of Coding
+Esports
+Learn Gamedev
+Game Engine Development
+GameMaker
+Game Production
+Babylon.js
+Quick Look Plugins
+Dev Env
+Dotfiles
+Shell
+Fish
+Command-Line Apps
+ZSH Plugins
+GitHub
+Browser Extensions
+Cheat Sheet
+Pinned Gists
+Git Cheat Sheet & Git Flow
+Git Tips
+Git Add-ons
+Git Hooks
+SSH
+FOSS for Developers
+Hyper
+PowerShell
+Alfred Workflows
+Terminals Are Sexy
+GitHub Actions
+Science Fiction
+Fantasy
+Podcasts
+Email Newsletters
+IT Quotes
+Database
+MySQL
+SQLAlchemy
+InfluxDB
+Neo4j
+MongoDB
+RethinkDB
+TinkerPop
+PostgreSQL
+CouchDB
+HBase
+NoSQL Guides
+Database Tools
+TypeDB
+Cassandra
+TDengine
+Supabase
+PocketBase
+Neon
+Fonts
+Codeface
+Stock Resources
+GIF
+Music
+Open Source Documents
+Audio Visualization
+Broadcasting
+Pixel Art
+FFmpeg
+Icons
+Audiovisual
+VLC
+CLI Workshoppers
+Learn to Program
+Speaking
+Tech Videos
+Dive into Machine Learning
+Computer History
+Programming for Kids
+STEAM
+Educational Games
+JavaScript Learning
+CSS Learning
+Product Management
+Roadmaps
+YouTubers
+Hackathon
+Certificates
+Application Security
+Security
+CTF
+Cyber Security University
+Malware Analysis
+Android Security
+Hacking
+Hacking Spots
+Honeypots
+Incident Response
+Vehicle Security and Car Hacking
+Web Security
+Lockpicking
+Cybersecurity Blue Team
+Fuzzing
+Embedded and IoT Security
+GDPR
+DevSecOps
+Executable Packing
+Malware Persistence
+EVM Security
+Password Cracking
+Security Card Games
+Suricata
+Prompt Injection
+Detection Engineering
+Annual Security Reports
+Umbraco
+Refinery CMS
+Wagtail
+Textpattern
+Drupal
+Craft CMS
+Sitecore
+Silverstripe CMS
+Directus
+Plone
+Payload
+Robotics
+Internet of Things
+Electronics
+Bluetooth Beacons
+Electric Guitar Specifications
+Plotters
+Robotic Tooling
+LIDAR
+Open Hardware
+ADS-B
+Flying FPV
+Open Companies
+Places to Post Your Startup
+OKR Methodology
+Indie
+Tools of the Trade
+Clean Tech
+Wardley Maps
+Social Enterprise
+Engineering Team Management
+Developer-First Products
+Billing
+Engineering Strategy
+Slack
+Communities
+Remote Jobs
+Productivity
+Niche Job Boards
+Programming Interviews
+Code Review
+Creative Technology
+Internships
+Software-Defined Networking
+PCAPTools
+Real-Time Communications
+SNMP
+Scapy
+Bitcoin
+Ripple
+Non-Financial Blockchain
+Mastodon
+Ethereum
+Blockchain AI
+EOSIO
+Corda
+Waves
+Substrate
+Golem
+Stacks
+Algorand
+ZeroNet
+Cosmos SDK
+Tor
+Biomedical Information Extraction
+Computational Neuroscience
+Diversity
+Digital History
+Empathy in Engineering
+Healthcare
+Humane Technology
+Mental Health
+Neuroscience
+Digital Humanities
+Lucid Dreams
+Creative Tech Events
+Events in Italy
+Events in the Netherlands
+Testing
+Visual Regression Testing
+Selenium
+Appium
+TAP
+JMeter
+k6
+Playwright
+Quality Assurance Roadmap
+Gatling
+CodeRabbit
+Scientific Writing
+JSON
+GeoJSON
+Datasets
+CSV
+Discounts for Student Developers
+Radio
+Awesome
+Analytics
+REST
+Continuous Integration and Continuous Delivery
+Services Engineering
+Free for Developers
+Answers
+Sketch
+Boilerplate Projects
+Readme
+GitHub Wiki
+Design and Development Guides
+Software Engineering Blogs
+Self Hosted
+FOSS Production Apps
+Gulp
+AMA
+Answers
+Open Source Photography
+OpenGL
+GraphQL
+Urban & Regional Planning
+Transit
+Research Tools
+Data Visualization
+Microservices
+Unicode
+Code Points
+Beginner-Friendly Projects
+Katas
+Tools for Activism
+Citizen Science
+MQTT
+For Girls
+Vorpal
+Vulkan
+LaTeX
+Economics
+Funny Markov Chains
+Bioinformatics
+Cheminformatics
+Colorful
+Steam
+Bots
+Site Reliability Engineering
+DTrace
+Userscripts
+Pokémon
+ChatOps
+Falsehood
+Domain-Driven Design
+Quantified Self
+SaltStack
+Web Design
+Creative Coding
+No-Login Web Apps
+Free Software
+Framer
+Markdown
+Dev Fun
+Magento 2
+TikZ
+Ad-Free
+Prometheus
+Homematic
+Ledger
+Web Monetization
+Uncopyright
+Crypto Currency Tools & Algorithms
+Open Source Supporters
+Design Principles
+Theravada
+inspectIT
+Open Source Maintainers
+Calculators
+Captcha
+Jupyter
+FIRST Robotics Competition
+Speakers
+Board Games
+Software Patreons
+Parasite
+Food
+Bitcoin Payment Processors
+Scientific Computing
+Amazon Sellers
+Agriculture
+Product Design
+Prisma
+Software Architecture
+Connectivity Data and Reports
+Stacks
+Cytodata
+IRC
+Advertising
+Earth
+Naming
+Web Archiving
+WP-CLI
+Credit Modeling
+Ansible
+Biological Visualizations
+QR Code
+Veganism
+Translations
+Scriptable
+WebXR
+Computational Geometry
+OpenStreetMap
+Computational Biology
+Read the Docs
+Quarto
+Biological Image Analysis
+ChatGPT
+Whisper
+Stock Trading
+Steam Deck
+Astrophotography
+HPC
+Geocaching
+Regex
+Event-Driven Architecture
+Permacomputing
+All Awesome Lists
+Awesome Search
+StumbleUponAwesome
+Awesome CLI
+Awesome Viewer
+Track Awesome List
