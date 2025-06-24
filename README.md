@@ -28,7 +28,7 @@ El analisis se realiza en un Jupyter Notebook, donde se presenta el procesamient
     | LINK_FILE_2    | ruta a el archivo `links_computrabajo.txt`, que contendra links de computrabajo (solo usadas para scraping) |
     | LINK_FILE_3    | ruta a el archivo `links_indeed.txt`, que contendra links de indeed (solo usadas para scraping) |
     | LINK_FILE_4    | ruta a el archivo `.txt`, que contendra links de bumeran (solo usadas para scraping) |
-    |GEOPANDAS_JSON| ruta a el archivo `chile.json`, que contendra los datos de geolocalizacion de las regiones de chile, esto esta en la caperta `scrips/data/geopandas` |
+    |GEOPANDAS_JSON| ruta a el archivo `13.json`, que contendra los datos de geolocalizacion de las regiones de chile, esto esta en la caperta `scrips/data/geopandas` |
 
 
 ## Instrucciones
@@ -49,7 +49,13 @@ El analisis se realiza en un Jupyter Notebook, donde se presenta el procesamient
     jupyter notebook
     ```
 
-4. Abre el archivo `.ipynb` en el navegador y sigue las instrucciones dentro del notebook.
+4. Abre el archivo `.ipynb` correspondiente en el navegador y sigue ejecuta el notebook, los tipos de notebook son:
+   1. `AnalisisOfertasLaborales.ipynb`: Este notebook contiene el análisis exploratorio de los datos extraídos de las ofertas laborales.
+   2. `AnalisisSeguridad.ipynb`: Este notebook contiene un análisis de la percepción de seguridad en las distintas comunas.
+   3. `Dashboard.ipynb`: Este notebook contiene un dashboard interactivo que permite explorar los datos de manera visual y dinámica( al final del notebook se despliega el dashboard).
+
+
+
 
 ## Notas
 - Dentro de la carpeta `scripts` se encuentran los scripts que se utilizan para la el crawling y scraping de los , junto con los datos extraidos.
